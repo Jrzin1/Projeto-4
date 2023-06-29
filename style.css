@@ -78,8 +78,6 @@ footer p{
 
 #cadeado {
   position: fixed;
-  bottom: 0;
-  left: 0;
-  padding-left: 20px;
-  padding-bottom: 20px;
+  bottom: 20px;
+  left: 20px;
 }
